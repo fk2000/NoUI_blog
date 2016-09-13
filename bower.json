@@ -22,6 +22,7 @@
     "modernizr": "^3.3.1",
     "jQuery": "^3.1.0",
     "normalize-css": "normalize.css#^4.2.0",
-    "medium-editor": "^5.22.0"
+    "medium-editor": "^5.22.0",
+    "bootstrap": "^3.3.7"
   }
 }
